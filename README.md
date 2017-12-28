@@ -1,5 +1,7 @@
 # Alexa ASK Intent Validator
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/m1ck2/alexa-skills-kit-intent-validator.svg)](https://greenkeeper.io/)
+
 The Alexa ASK Intent Validator is designed to help validate your Alexa interaction models.  Need to quickly try many different combinations of your utterances ON your devices, this is the tool for you.  While intended for medium-complex models, it can work on ANY interaction models.  
 
 ## How it Works
