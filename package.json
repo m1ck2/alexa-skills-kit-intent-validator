@@ -10,7 +10,7 @@
     }
   ],
   "dependencies": {
-    "alexa-sdk": "1.0.9"
+    "alexa-sdk": "1.0.24"
   },
   "devDependencies": {},
   "scripts": {
